@@ -93,6 +93,9 @@ The project uses multiple SQL queries to generate statistics for the dashboard:
 ## Dashboard View  
 ![Alt text](/screenshots/dashboard.png?raw=true "Dashboard")
 
+## Entry Form View
+![Alt text](/screenshots/entry-form.png?raw=true "Entry Form")
+
 ---
 
 ## Acknowledgments  
