@@ -102,5 +102,3 @@ The project uses multiple SQL queries to generate statistics for the dashboard:
 This project was developed as part of a **Community Service Activity** to assist the village administration in managing citizen data more efficiently. Special thanks to the village administration of Tritis Village in Kulonprogo Regency, Special Region of Yogyakarta, for their support and collaboration.  
 
 
-
-Let me know if you want to add database table descriptions or sample screenshots!
