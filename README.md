@@ -85,16 +85,13 @@ The project uses multiple SQL queries to generate statistics for the dashboard:
 ---
 
 ## Usage  
-1. **Login** using the provided administrator credentials.  
-2. **View real-time statistics** on the homepage dashboard.  
-3. **Manage citizen records** by adding, updating, or deleting data.  
+1. **View real-time statistics** on the homepage dashboard.  
+2. **Manage citizen records** by adding, updating, or deleting data.  
 
 ---
 
-## Future Improvements  
-- Add **chart visualizations** for age distribution, gender count, and occupation statistics.  
-- Implement **search and filter functionalities** for easier data access.  
-- Provide **export options** for reports (PDF, Excel).  
+## Dashboard View  
+![Alt text](/screenshots/dashboard.png?raw=true "Dashboard")
 
 ---
 
